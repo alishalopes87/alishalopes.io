@@ -35,7 +35,7 @@ Version      : 1.0
 */
 
 body {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 300;
     line-height: 24px;
     height: 100%;
@@ -300,8 +300,8 @@ fieldset {
 
 strong.text-rotator span {
     color: #fafafa;
-    font-size: 80px;
-    font-weight: 900;
+    font-size: 50px;
+    font-weight: 700;
     text-transform: capitalize;
 }
 
@@ -562,7 +562,7 @@ strong.text-rotator span {
 }
 
 .about-text h2 {
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 15px;
     font-weight: 300;
     margin-top: 0;
@@ -608,7 +608,7 @@ strong.text-rotator span {
     width: 40%;
 }
 
-.app-academy {
+.hackbright {
     border-top: 1px dotted #ccc;
 }
 
